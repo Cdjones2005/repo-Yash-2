@@ -19,8 +19,10 @@ header {
 }
 #nav-list a {
 	text-align: center;
-	border: 1px;
-	border-color: black;
+	color: black;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: black;
 }
 nav {
 	background-color: gray;
